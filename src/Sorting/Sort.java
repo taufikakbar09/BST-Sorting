@@ -1,9 +1,5 @@
 package Sorting;
 
-/**
- *
- * @author Fiki L
- */
 public class Sort {
     void printArray(int arr[]){
         int n = arr.length;

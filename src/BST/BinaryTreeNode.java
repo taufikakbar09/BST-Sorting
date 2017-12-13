@@ -1,9 +1,5 @@
 package BST;
 
-/**
- *
- * @author Fiki L
- */
 public class BinaryTreeNode {
     Object element;
     BinaryTreeNode leftChild;

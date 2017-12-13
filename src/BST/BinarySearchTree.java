@@ -1,10 +1,5 @@
 package BST;
 
-/**
- *
- * @author Fiki L
- */
-
 import static BST.BinarySearchTree.Data.root;
 
 public class BinarySearchTree{

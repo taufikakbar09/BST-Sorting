@@ -1,9 +1,5 @@
 package Sorting;
 
-/**
- *
- * @author Fiki L
- */
 import java.util.Random;
 import java.util.Scanner;
 
